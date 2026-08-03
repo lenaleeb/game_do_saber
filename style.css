@@ -13,3 +13,11 @@ body {
     max-width: 100%; /* Garante que a imagem nunca passe da largura da tela */
     height: auto;     /* Mantém a proporção correta para não distorcer */
 }
+
+@media (max-width: 768px) {
+    .imagem-entrada {
+        width: 150px; /* Define um tamanho máximo fixo e delicado no celular */
+        margin-top: 15px;
+        margin-bottom: 15px;
+    }
+}
