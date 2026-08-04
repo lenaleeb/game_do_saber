@@ -23,4 +23,11 @@ body {
 
 .titulo-principal {
     text-align: center;
+    font-size: 32px;
+}
+
+@media (max-width: 768px) {
+    h1 {
+        font-size: 28px; 
+    }
 }
