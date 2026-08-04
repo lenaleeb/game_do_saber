@@ -17,7 +17,7 @@ body {
 
 @media (max-width: 768px) {
     .imagem-entrada {
-        width: 150px; /* Define um tamanho máximo fixo e delicado no celular */
+        width: 200px; 
         margin-top: 15px;
         margin-bottom: 15px;
     }
