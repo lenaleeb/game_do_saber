@@ -23,7 +23,7 @@ body {
 
 .titulo-principal {
     text-align: center;
-    font-size: 32px;
+    font-size: 35px;
 }
 
 @media (max-width: 768px) {
@@ -33,7 +33,7 @@ body {
 }
 
 .subtitulo-projeto {
-    font-size: 24px;
+    font-size: 30px;
     color: #af8e4f;       
     margin-top: 30px;   
     margin-left: 5%;      
@@ -41,7 +41,7 @@ body {
 }
 
 .texto-descricao {
-    font-size: 16px;
+    font-size: 25px;
     line-height: 1.6;     
     color: #ac9a36;       
     margin-left: 5%;      
