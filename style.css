@@ -33,13 +33,12 @@ body {
 }
 
 .bloco-destaque {
-    background-color: rgb(240, 238, 211)
+    background-color: #f0e6d2;
     width: 90%;
     max-width: 800px;
     margin: 30px auto;
     padding: 25px;
     border-radius: 12px;
-    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
 }
 
 .subtitulo-projeto {
