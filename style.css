@@ -32,19 +32,26 @@ body {
     }
 }
 
+.bloco-destaque {
+    background-color: rgb(240, 238, 211)
+    width: 90%;
+    max-width: 800px;
+    margin: 30px auto;
+    padding: 25px;
+    border-radius: 12px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+
 .subtitulo-projeto {
     font-size: 30px;
     color: #af8e4f;       
-    margin-top: 30px;   
-    margin-left: 5%;      
-    margin-right: 5%;
+    margin-top: 0;   
+    margin-bottom: 10px;
 }
 
 .texto-descricao {
     font-size: 25px;
     line-height: 1.6;     
     color: #ac9a36;       
-    margin-left: 5%;      
-    margin-right: 5%;
     margin-bottom: 15px;  
 }
