@@ -54,6 +54,16 @@ body {
 .texto-descricao {
     font-size: 25px;
     line-height: 1.6;     
-    color: #c9bb6c;       
+    color: #c4b45d;       
     margin-bottom: 15px;  
+}
+
+.imagem-topico {
+    display: block;
+    width: 90%;
+    max-width: 1000px;        /* Você pode ajustar a largura se quiser diferente da primeira */
+    height: auto;
+    margin: 30px auto;        /* Espaçamento em cima/embaixo e centralizado */
+    border-radius: 16px;      /* Bordas bem arredondadas */
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1); /* Uma sombrinha leve para destacar */
 }
