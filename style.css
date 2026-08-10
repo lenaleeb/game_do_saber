@@ -33,7 +33,7 @@ body {
 }
 
 .bloco-destaque {
-    background-color: #f8f8d9;
+    background-color: #ffffb7;
     width: 90%;
     max-width: 1400px;
     margin-top: 30px;      
@@ -46,7 +46,7 @@ body {
 
 .subtitulo-projeto {
     font-size: 30px;
-    color: #c0a066;       
+    color: #c2a062;       
     margin-top: 0;   
     margin-bottom: 10px;
 }
@@ -54,6 +54,6 @@ body {
 .texto-descricao {
     font-size: 25px;
     line-height: 1.6;     
-    color: #ddcd75;       
+    color: #c9bb6c;       
     margin-bottom: 15px;  
 }
