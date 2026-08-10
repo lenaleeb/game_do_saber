@@ -61,15 +61,15 @@ body {
 .imagem-topico {
     display: block;
     width: 90%;
-    max-width: 1000px;        /* Você pode ajustar a largura se quiser diferente da primeira */
+    max-width: 1000px;      
     height: auto;
-    border-radius: 16px;      /* Bordas bem arredondadas */
-    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1); /* Uma sombrinha leve para destacar */
+    border-radius: 16px;      
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1); 
 
     margin-top: 30px;
     margin-bottom: 30px;
-    margin-left: 8%;     /* Mesmo recuo do título para ficarem alinhados! */
-    margin-right: auto;   /* Empurra o resto do espaço para a direita */
+    margin-left: 8%;     
+    margin-right: auto;  
 }
 
 .subtitulo-topico {
@@ -77,6 +77,6 @@ body {
     color: #7e6b49;
     margin-top: 50px;
     margin-bottom: 20px;
-    margin-left: 8%;    /* Recuo personalizado só para este e os próximos */
+    margin-left: 8%;    
     margin-right: auto;
 }
