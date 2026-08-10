@@ -46,7 +46,7 @@ body {
 
 .subtitulo-projeto {
     font-size: 30px;
-    color: #c2a062;       
+    color: #a78c5a;       
     margin-top: 0;   
     margin-bottom: 10px;
 }
@@ -54,7 +54,7 @@ body {
 .texto-descricao {
     font-size: 25px;
     line-height: 1.6;     
-    color: #a7994d;       
+    color: #968a48;       
     margin-bottom: 15px;  
 }
 
@@ -74,7 +74,7 @@ body {
 
 .subtitulo-topico {
     font-size: 30px;
-    color: #4a3e28;
+    color: #7e6b49;
     margin-top: 50px;
     margin-bottom: 20px;
     margin-left: 8%;    /* Recuo personalizado só para este e os próximos */
